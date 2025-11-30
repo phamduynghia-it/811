@@ -510,7 +510,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Logic xử lý click vào ảnh popup (popupImg)
 popupImg.addEventListener("click", () => {
-    const message = "Giáng Sinh năm nay đến nhẹ nhàng như những bông tuyết rơi, và anh chỉ muốn nói rằng em chính là điều ấm áp nhất mùa đông của anh... Yêu em nhiều ♥";
+    const message = "chúc chị iu một mùa giáng sinh đặc biệt ạ , mãi xinh , yêu đời như này nhaa 😘😘";
 
     // Đây là lần click thứ hai: chuyển từ close.png sang hopopen.png, bay thư, và hiện nội dung nền trắng
     if (!isLetterShown) {
